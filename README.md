@@ -1,14 +1,8 @@
-# Project-5
-
-## Hey there, i am Yasir Lambawala
-
--
-
 ![badge](https://img.shields.io/badge/MADE%20WITH-HTML%20%26%20CSS-blue)
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-2--3hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project5-26722.netlify.app/)
 
-# Project-4:Buisness website
+# Project-5
 
 - This website is made with Html and CSS.It took me a while to adjust the background and the font sizes in this website.I learned a lot of little things by making this website.
 
