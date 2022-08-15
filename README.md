@@ -2,13 +2,15 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-2--3hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project5-26722.netlify.app/)
 
-# Project-5
+# Crypto Landing Page
+
+- This is my **Fifth** project.
 
 - This website is made with Html and CSS.It took me a while to adjust the background and the font sizes in this website.I learned a lot of little things by making this website.
 
 - It took me 2hrs to make this website.The link of this project is attached below:
 
-## [![badge](https://img.shields.io/badge/Link-Project--5-yellow)](https://project5-26722.netlify.app/)
+## [![badge](https://img.shields.io/badge/Link%20of-Project--5-purple)](https://project5-26722.netlify.app/)
 
 ## Screenshot
 
